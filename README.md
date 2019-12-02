@@ -4,8 +4,9 @@ Basically all you have to do is run it on your VSCode console...
 Environment Setup:
 Install Node JS
 With your package.json file everything is all ready to go, just install your dependencies with:
-npm init
-npm install website-scrapper
+
+->npm init
+->npm install website-scrapper
 Execute
-node index.js
+->node index.js
 
