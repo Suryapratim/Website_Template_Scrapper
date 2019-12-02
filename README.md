@@ -5,9 +5,8 @@ Environment Setup:
 Install Node JS
 With your package.json file everything is all ready to go, just install your dependencies with:
 
-->npm init
-->npm install website-scraper
-
-Execute
-->node index.js
-
+```
+npm init
+npm install website-scraper
+node index.js
+```
